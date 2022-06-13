@@ -1,0 +1,11 @@
+(librepcb_library fdcbf281-743c-4e75-be5c-706c4f7ad02a
+ (name "HopeRF")
+ (description "IoT modules, chips and sensors by Hope RF (unofficial).")
+ (keywords "hoperf,lora,iot,module,sensors")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2022-06-13T14:57:58Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/HopeRF.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
