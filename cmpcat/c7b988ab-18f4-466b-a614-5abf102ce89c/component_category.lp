@@ -1,0 +1,10 @@
+(librepcb_component_category c7b988ab-18f4-466b-a614-5abf102ce89c
+ (name "RF Modules")
+ (description "")
+ (keywords "")
+ (author "Frigyes")
+ (version "0.1")
+ (created 2022-06-13T16:22:24Z)
+ (deprecated false)
+ (parent none)
+)
