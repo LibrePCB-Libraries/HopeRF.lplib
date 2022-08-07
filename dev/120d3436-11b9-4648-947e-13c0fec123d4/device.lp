@@ -1,10 +1,10 @@
-(librepcb_device 4b2c7c81-c591-4ff8-8197-0c9e50746804
- (name "RFM96W")
+(librepcb_device 120d3436-11b9-4648-947e-13c0fec123d4
+ (name "RFM98W")
  (description "")
  (keywords "")
  (author "Frigyes")
  (version "0.1")
- (created 2022-06-13T17:20:21Z)
+ (created 2022-08-07T11:08:21Z)
  (deprecated false)
  (category f7f9bc34-7966-4af4-8cd4-4b8101e0823a)
  (component dbac1d9d-c7d3-4eb2-942e-721c3e3dc5ee)

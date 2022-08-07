@@ -1,10 +1,10 @@
 (librepcb_package_category 389aef5a-bfcf-49a4-b70c-6ea4f50dd691
- (name "RF Modules")
+ (name "HopeRF")
  (description "")
  (keywords "")
  (author "Frigyes")
  (version "0.1")
  (created 2022-06-13T17:29:06Z)
  (deprecated false)
- (parent none)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
 )
