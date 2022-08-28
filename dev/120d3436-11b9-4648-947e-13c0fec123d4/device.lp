@@ -1,9 +1,9 @@
 (librepcb_device 120d3436-11b9-4648-947e-13c0fec123d4
  (name "RFM98W")
  (description "")
- (keywords "")
+ (keywords "rfm95,hoperf,lora")
  (author "Frigyes")
- (version "0.1")
+ (version "0.1.1")
  (created 2022-08-07T11:08:21Z)
  (deprecated false)
  (category f7f9bc34-7966-4af4-8cd4-4b8101e0823a)
