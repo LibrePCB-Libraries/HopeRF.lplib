@@ -4,7 +4,7 @@ jobs:
   check:
     runs-on: ubuntu-20.04
     container:
-      image: librepcb/librepcb-cli:0.1.6
+      image: librepcb/librepcb-cli:0.1.5
       options: --entrypoint /bin/bash
     steps:
     - uses: actions/checkout@v1
