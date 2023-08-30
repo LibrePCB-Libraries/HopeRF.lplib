@@ -1,5 +1,5 @@
 (librepcb_device cabbc643-4851-4d10-892e-0ffb07401e05
- (name "RFM95W")
+ (name "HopeRF RFM95W")
  (description "")
  (keywords "rfm95,hoperf,lora")
  (author "Frigyes")
@@ -26,4 +26,10 @@
  (pad d7b72626-0bdd-47e6-99fd-5b8a6aeccd25 (signal f41f0a60-fbbd-4c6a-91b8-c096ab3b3d8e))
  (pad e4767f56-6aad-4c16-a3cf-c35319657a84 (signal aff1c3d1-6366-4b86-8bf9-0358c8bad4d1))
  (pad e822ea23-4818-4c93-87c9-ebf9e6741caf (signal a4a78464-ebfa-4e87-99bd-8c4327f128e8))
+ (part "RFM95W-868S2" (manufacturer "HopeRF")
+  (attribute "BAND" (type frequency) (unit megahertz) (value "868"))
+ )
+ (part "RFM95W-915S2" (manufacturer "HopeRF")
+  (attribute "BAND" (type frequency) (unit megahertz) (value "915"))
+ )
 )
