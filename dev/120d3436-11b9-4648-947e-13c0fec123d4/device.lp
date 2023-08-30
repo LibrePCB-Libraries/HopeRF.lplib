@@ -3,7 +3,7 @@
  (description "")
  (keywords "rfm95,hoperf,lora")
  (author "Frigyes")
- (version "0.1.1")
+ (version "0.2")
  (created 2022-08-07T11:08:21Z)
  (deprecated false)
  (generated_by "")

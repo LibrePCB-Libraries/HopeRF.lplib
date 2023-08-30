@@ -3,7 +3,7 @@
  (description "IoT modules, chips and sensors by Hope RF (unofficial).")
  (keywords "hoperf,lora,iot,module,sensors")
  (author "LibrePCB")
- (version "0.1.1")
+ (version "0.2")
  (created 2022-06-13T14:57:58Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/HopeRF.lplib")

@@ -3,7 +3,7 @@
  (description "RFM95W/96W/98W module, SMD Package")
  (keywords "RFM95W,RFM96W,RFM98W,rfm95,hoperf,lora")
  (author "Frigyes")
- (version "0.2")
+ (version "0.3")
  (created 2022-06-13T17:28:24Z)
  (deprecated false)
  (generated_by "")
